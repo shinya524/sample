@@ -1,1 +1,1 @@
-test
+https://web-camp.iotest
